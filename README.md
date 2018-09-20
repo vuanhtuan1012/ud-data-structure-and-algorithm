@@ -1,2 +1,2 @@
-# ud-data-structure-and-algorithm
-Algorithms in the course Data Structure and Algorithm at Udacity
+# Data Structure & Algorithm in Python Quiz
+My answer quizzes in the course [Data Structure & Algorithm in Python](https://eu.udacity.com/course/data-structures-and-algorithms-in-python--ud513 "Data Structure & Algorithm in Python") at Udacity.
